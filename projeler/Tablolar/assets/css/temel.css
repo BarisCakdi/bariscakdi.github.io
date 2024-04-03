@@ -1,0 +1,35 @@
+  /* seçiçi - selector */
+        
+.altiCizgili {
+    text-decoration: underline;
+}
+
+.hata {
+    color: white;
+    background-color: red;
+}
+
+/* global seçiçi */
+p {
+    color: blue;
+}
+
+p {
+    color: blueviolet;
+}
+
+h1 {
+    color: green;
+}
+
+p strong {
+    color: brown;
+}
+
+strong {
+    color: darkorange;
+}
+
+.hata strong {
+    color: blue;
+}
